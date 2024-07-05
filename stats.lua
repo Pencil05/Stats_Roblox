@@ -5,7 +5,7 @@ local datakey = 1
 local atkdata = datastore:GetDataStore("Attack")
 local defdata = datastore:GetDataStore("Defense")
 local spddata = datastore:GetDataStore("Speed")
-local intdata = datastore:GetDataStore("Technique")
+local intdata = datastore:GetDataStore("Intelligence")
 
 --xp
 local atkxpdata = datastore:GetDataStore("atkxp"..datakey)
